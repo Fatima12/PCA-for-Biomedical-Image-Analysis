@@ -14,3 +14,13 @@ This technique is part of **biomedical image analysis**, where orientation norma
 
 ![Corrected Fingerprint](corrected_fingerprint.png)
 *Figure 2: Orientation corrected using PCA*
+
+## 🏃 How to Run
+
+1. Download or clone this repository.
+2. Make sure the following files are in the same directory:
+   - `main.m`
+   - `P3.mat`
+   - All helper functions (e.g., `non_zeros_pixels.m`, `cov_eig_calculate.m`, etc.)
+3. Open MATLAB and run:
+
