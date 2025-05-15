@@ -22,7 +22,7 @@ This technique is part of **biomedical image analysis**, where orientation norma
    - `main.m`
    - `P3.mat`
    - All helper functions (e.g., `non_zeros_pixels.m`, `cov_eig_calculate.m`, etc.)
-3. Open MATLAB and run:
+3. Open MATLAB and run main.m
 
 ## Applications
 Biometric authentication systems
