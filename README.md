@@ -13,4 +13,4 @@ This technique is part of **biomedical image analysis**, where orientation norma
 *Figure 1: Original fingerprint input (tilted)*
 
 ![Corrected Fingerprint](corrected_fingerprint.png)
-*Figure 2: Orientation-normalized output using PCA*
+*Figure 2: Orientation corrected using PCA*
