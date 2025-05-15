@@ -24,3 +24,11 @@ This technique is part of **biomedical image analysis**, where orientation norma
    - All helper functions (e.g., `non_zeros_pixels.m`, `cov_eig_calculate.m`, etc.)
 3. Open MATLAB and run:
 
+## Applications
+Biometric authentication systems
+
+Medical imaging (e.g., histology slides, retina scans)
+
+Preprocessing for deep learning
+
+Object alignment and normalization tasks
